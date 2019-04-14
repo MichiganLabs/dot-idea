@@ -1,0 +1,14 @@
+{
+    "files.exclude": {
+        "**/*.iml": true,
+        "caches/": true,
+        "dictionaries/": true,
+        "gradle.xml": true,
+        "kotlinc.xml": true,
+        "libraries": true,
+        "misc.xml": true,
+        "modules.xml": true,
+        "navEditor.xml": true,
+        "workspace.xml": true
+    }
+}
