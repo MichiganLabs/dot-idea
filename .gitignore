@@ -17,3 +17,6 @@ kotlinc.xml
 caches/
 libraries/
 dictionaries/
+
+# vcs is going to change project to project
+vcs.xml
