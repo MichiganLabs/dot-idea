@@ -7,7 +7,7 @@ If you make changes to project level settings to enable new inspections, change 
 This repo can be tracked as a git submodule so it can be synced between this repo and other projects easily:
 
 ```bash
-git submodule add https://code.michiganlabs.com/MichiganLabs/dot-idea.git .idea
+git submodule add https://github.com/MichiganLabs/dot-idea.git .idea
 ```
 
 To update the settings in your project, run:
