@@ -18,6 +18,7 @@ caches/
 libraries/
 dictionaries/
 jarRepositories.xml
+compiler.xml
 
 # vcs is going to change project to project
 vcs.xml
