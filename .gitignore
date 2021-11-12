@@ -19,6 +19,7 @@ libraries/
 dictionaries/
 jarRepositories.xml
 compiler.xml
+deploymentTargetDropDown.xml
 
 # vcs is going to change project to project
 vcs.xml
