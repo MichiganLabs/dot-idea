@@ -22,6 +22,9 @@
         </value>
       </option>
     </AndroidXmlCodeStyleSettings>
+    <JavaCodeStyleSettings>
+      <option name="DO_NOT_WRAP_AFTER_SINGLE_ANNOTATION" value="true" />
+    </JavaCodeStyleSettings>
     <JetCodeStyleSettings>
       <option name="PACKAGES_TO_USE_STAR_IMPORTS">
         <value>
