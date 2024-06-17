@@ -20,6 +20,9 @@ dictionaries/
 jarRepositories.xml
 compiler.xml
 deploymentTargetDropDown.xml
+androidTestResultsUserPreferences.xml
+deploymentTargetSelector.xml
+migrations.xml
 
 # vcs is going to change project to project
 vcs.xml
